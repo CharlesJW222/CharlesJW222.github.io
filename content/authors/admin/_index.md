@@ -23,83 +23,85 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Student @ UoL
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Liverpool
+    url: https://www.liverpool.ac.uk
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'Jinwei.Hu@liverpool.ac.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/CharlesJW222
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/jinwei-hu-179842275/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=lpql_8kAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/my-orcid?orcid=0009-0008-5261-211X
 
 interests:
   - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Responsible AI
+  - Agentic AI
+  - AI4Science
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD in Computer Science
+    institution: University of Liverpool
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2023-12
+    date_end: 2027-12
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Supervised by Prof. Xiaowei Huang and Dr. Yi Dong. 
+  - area: MSc in Applied Computational Science and Engineering
+    institution: Imperial College London
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2022-10
+    date_end: 2023-10
+    summary: |
+      Award: Master of Science with Distinction
+      Specialized in AI4Science and Explainable AI which are supervised by Dr. Sibo Cheng.
+      
+  - area: BSc with Honours in Computer Science (Artificial Intelligence)
+    institution: University of Liverpool & Xi’an Jiaotong-Liverpool University
+    icon: ""
+    date_start: 2018-09
+    date_end: 2022-09
     summary: |
       GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
+      Grade: First Class
+    
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Research Associate
+    company_name: University of Liverpool
+    company_url: 'https://www.liverpool.ac.uk/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2024-09-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Mainly working on the "CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space" project,
+      funded by the Alan Turing Institute (AI for Cyber Defence Research Centre). Research focuses on
+      neuro-symbolic AI, cyber defence, and autonomous agents.
+
+  - position: Teaching Assistant
+    company_name: University of Liverpool
+    company_url: 'https://www.liverpool.ac.uk/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    date_start: 2024-01-01
+    date_end: 2024-12-31
+    summary: |2-
+    COMP338 Computer Vision
+  	COMP305 Biocomputation
+  	COMP202 Complexity of Algorithms
+  	COMP532 Machine Learning and BioInspired Optimisation
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -136,31 +138,31 @@ skills:
         icon: book-open
 
 languages:
-  - name: English
+  - name: Chinese
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: English
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
+# awards:
+#  - title: Best Paper Award
     url: https://neurips.cc/
     date: '2022-12-01'
     awarder: NeurIPS
     icon: hero/trophy
     summary: |
       Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
+#  - title: AI Innovation Grant
     url: https://www.nsf.gov/
     date: '2021-06-15'
     awarder: National Science Foundation
     icon: hero/currency-dollar
     summary: |
       $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
+ # - title: Outstanding PhD Thesis
     url: https://www.stanford.edu/
     date: '2019-06-30'
     awarder: Stanford University
@@ -169,4 +171,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+# Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
