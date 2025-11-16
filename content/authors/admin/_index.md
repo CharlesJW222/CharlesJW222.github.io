@@ -140,34 +140,8 @@ languages:
   - name: English
     percent: 70
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-#  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
- # - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
 ---
 
 # I am a Ph.D. student in Computer Science at the University of Liverpool, supervised by Prof. Xiaowei Huang and Dr. Yi Dong. My research aims to understand and enhance the robustness, interpretability, and reliability of modern AI systems, especially in safety-critical settings. I am particularly interested in LLM-driven agents operating in dynamic and adversarial environments, the emergence of collusive behaviours among autonomous models, and fine-grained knowledge manipulation techniques such as activation editing and machine unlearning. I also work on simulation-driven cyber defence, multi-agent coordination, and the integration of symbolic structure with generative intelligence.
 
-Before starting my Ph.D., I completed an MSc in Applied Computational Science and Engineering at Imperial College London, where my thesis—supervised by Dr. Sibo Cheng at the Data Science Institute—focused on AI4Science and data-driven modelling. I also hold a BSc (Hons) in Computer Science (Artificial Intelligence) from the University of Liverpool and a BSc in Information and Computing Science from Xi’an Jiaotong-Liverpool University.
+# Before starting my Ph.D., I completed an MSc in Applied Computational Science and Engineering at Imperial College London, where my thesis—supervised by Dr. Sibo Cheng at the Data Science Institute—focused on AI4Science and data-driven modelling. I also hold a BSc (Hons) in Computer Science (Artificial Intelligence) from the University of Liverpool and a BSc in Information and Computing Science from Xi’an Jiaotong-Liverpool University.
