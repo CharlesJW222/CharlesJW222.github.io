@@ -101,7 +101,6 @@ work:
       COMP202 Complexity of Algorithms
       COMP532 Machine Learning and BioInspired Optimisation.
 
-
 languages:
   - name: Chinese
     percent: 100
