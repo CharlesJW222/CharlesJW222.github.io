@@ -55,15 +55,15 @@ education:
   - area: PhD in Computer Science
     institution: University of Liverpool
     icon: ""
-    date_start: 2023-12
-    date_end: 2027-12
+    date_start: 2023-12-01
+    date_end: 2027-12-01
     summary: |
       Supervised by Prof. Xiaowei Huang and Dr. Yi Dong. 
   - area: MSc in Applied Computational Science and Engineering
     institution: Imperial College London
     icon: ""
-    date_start: 2022-10
-    date_end: 2023-10
+    date_start: 2022-10-01
+    date_end: 2023-10-01
     summary: |
       Award: Master of Science with Distinction
       Specialized in AI4Science and Explainable AI which are supervised by Dr. Sibo Cheng.
@@ -71,8 +71,8 @@ education:
   - area: BSc with Honours in Computer Science (Artificial Intelligence)
     institution: University of Liverpool & Xi’an Jiaotong-Liverpool University
     icon: ""
-    date_start: 2018-09
-    date_end: 2022-09
+    date_start: 2018-09-01
+    date_end: 2022-09-01
     summary: |
       GPA: 4.0/4.0
       Grade: First Class
@@ -82,7 +82,7 @@ work:
     company_name: University of Liverpool
     company_url: 'https://www.liverpool.ac.uk/'
     icon: ''
-    date_start: 2024-09
+    date_start: 2024-09-01
     date_end: ''
     summary: |2-
       Mainly working on the "CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space" project,
@@ -93,46 +93,13 @@ work:
     company_name: University of Liverpool
     company_url: 'https://www.liverpool.ac.uk/'
     icon: ''
-    date_start: 2024-01
-    date_end: 2024-12
+    date_start: 2024-01-01
+    date_end: 2024-12-31
     summary: |2-
       COMP338 Computer Vision COMP305 Biocomputation COMP202 Complexity of Algorithms COMP532 Machine Learning and BioInspired Optimisation.
 
 
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
 
 languages:
   - name: Chinese
