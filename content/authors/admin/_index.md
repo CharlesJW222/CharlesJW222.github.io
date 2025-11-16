@@ -82,7 +82,7 @@ work:
     company_name: University of Liverpool
     company_url: 'https://www.liverpool.ac.uk/'
     icon: ''
-    date_start: 2024-09-01
+    date_start: 2024-09
     date_end: ''
     summary: |2-
       Mainly working on the "CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space" project,
@@ -93,10 +93,10 @@ work:
     company_name: University of Liverpool
     company_url: 'https://www.liverpool.ac.uk/'
     icon: ''
-    date_start: 2024-01-01
-    date_end: 2024-12-31
+    date_start: 2024-01
+    date_end: 2024-12
     summary: |2-
-    COMP338 Computer Vision COMP305 Biocomputation COMP202 Complexity of Algorithms COMP532 Machine Learning and BioInspired Optimisation.
+      COMP338 Computer Vision COMP305 Biocomputation COMP202 Complexity of Algorithms COMP532 Machine Learning and BioInspired Optimisation.
 
 
 
