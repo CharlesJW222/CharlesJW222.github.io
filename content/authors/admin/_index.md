@@ -96,10 +96,7 @@ work:
     date_start: 2024-01-01
     date_end: 2024-12-31
     summary: |2-
-    COMP338 Computer Vision
-  	COMP305 Biocomputation
-  	COMP202 Complexity of Algorithms
-  	COMP532 Machine Learning and BioInspired Optimisation
+    COMP338 Computer Vision COMP305 Biocomputation COMP202 Complexity of Algorithms COMP532 Machine Learning and BioInspired Optimisation
 
 
 
