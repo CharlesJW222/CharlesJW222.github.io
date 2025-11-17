@@ -26,13 +26,15 @@ sections:
         shape: rounded # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research Interests'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
+        My current research interests include but not limited to: <br>
+          - Generative AI <br>
+          - Responsible AI <br>
+          - Agentic AI <br>
+          - AI4Science <br>
+    
         Please reach out to collaborate 😃
     design:
       columns: '1'
