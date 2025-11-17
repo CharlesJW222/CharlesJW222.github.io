@@ -48,7 +48,7 @@ interests:
   - AI4Science
 
 education:
-  - area: PhD in Computer Science
+  - area: Ph.D. in Computer Science
     institution: University of Liverpool
     icon: ""
     date_start: 2023-12-01
@@ -61,8 +61,8 @@ education:
     date_start: 2022-10-01
     date_end: 2023-10-01
     summary: |
-      Award: Master of Science with Distinction
-      Specialized in AI4Science and Explainable AI which are supervised by Dr. Sibo Cheng.
+      Award: Master of Science with Distinction <br>
+      Specialized in AI4Science and Explainable AI.
       
   - area: BSc with Honours in Computer Science (Artificial Intelligence)
     institution: University of Liverpool & Xi’an Jiaotong-Liverpool University
@@ -70,7 +70,7 @@ education:
     date_start: 2018-09-01
     date_end: 2022-09-01
     summary: |
-      GPA: 4.0/4.0
+      GPA: 4.0/4.0 <br>
       Grade: First Class
     
 work:
@@ -92,10 +92,42 @@ work:
     date_start: 2024-01-01
     date_end: 2024-12-31
     summary: |2-
-      COMP338 Computer Vision
-      COMP305 Biocomputation
-      COMP202 Complexity of Algorithms
+      COMP338 Computer Vision <br>
+      COMP305 Biocomputation <br>
+      COMP202 Complexity of Algorithms <br>
       COMP532 Machine Learning and BioInspired Optimisation.
+
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python & C++
+        description: ''
+        percent: 95
+        icon: code-bracket
+      - name: Machine Learning
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: LLM
+        description: ''
+        percent: 85
+        icon: 🤖
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Badminton
+        description: ''
+        percent: 100
+        icon: 🏸
+      - name: Basketball
+        description: ''
+        percent: 80
+        icon: 🏀
+      - name: Skiing
+        description: ''
+        percent: 60
+        icon: 🏂
 
 languages:
   - name: Chinese
@@ -105,6 +137,6 @@ languages:
 
 ---
 
-I am a Ph.D. student in Computer Science at the University of Liverpool, supervised by Prof. Xiaowei Huang and Dr. Yi Dong. My research aims to understand and enhance the robustness, interpretability, and reliability of modern AI systems, especially in safety-critical settings. I am particularly interested in LLM-driven agents operating in dynamic and adversarial environments, the emergence of collusive behaviours among autonomous models, and fine-grained knowledge manipulation techniques such as activation editing and machine unlearning. I also work on simulation-driven cyber defence, multi-agent coordination, and the integration of symbolic structure with generative intelligence.
+Hi all, my name is Jinwei Hu(胡津玮) and I am a Ph.D. student in Computer Science at the University of Liverpool, supervised by Prof. Xiaowei Huang and Dr. Yi Dong. My research aims to understand and enhance the robustness, interpretability, and reliability of modern AI systems, especially in safety-critical settings. I am particularly interested in LLM-driven agents operating in dynamic and adversarial environments, the emergence of collusive behaviours among autonomous agents, and fine-grained knowledge manipulation techniques such as LLM unlearning. I also work on simulation-driven cyber defence, multi-agent coordination, and the integration of symbolic structure with generative intelligence.
 
-Before starting my Ph.D., I completed an MSc in Applied Computational Science and Engineering at Imperial College London, where my thesis—supervised by Dr. Sibo Cheng at the Data Science Institute—focused on AI4Science and data-driven modelling. I also hold a BSc (Hons) in Computer Science (Artificial Intelligence) from the University of Liverpool and a BSc in Information and Computing Science from Xi’an Jiaotong-Liverpool University.
+Before starting my Ph.D., I completed an MSc in Applied Computational Science and Engineering with Distinction at Imperial College London, where my thesis, which was supervised by Dr. Sibo Cheng at the Data Science Institute, focused on AI4Science and explainable AI. I also hold a BSc (Hons) in Computer Science (Artificial Intelligence) with First Class from the University of Liverpool and a BSc in Information and Computing Science from Xi’an Jiaotong-Liverpool University.
