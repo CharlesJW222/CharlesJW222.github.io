@@ -24,18 +24,4 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: rounded # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research Interests'
-      subtitle: ''
-      text: |-
-        My current research interests include but not limited to: <br>
-          - Generative AI <br>
-          - Responsible AI <br>
-          - Agentic AI <br>
-          - AI4Science <br>
-    
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
 ---
