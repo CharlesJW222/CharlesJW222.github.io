@@ -20,6 +20,7 @@ sections:
         interests: 'Research Interests'
     design:
       # Apply a gradient background
+      heading_style: big
       css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
