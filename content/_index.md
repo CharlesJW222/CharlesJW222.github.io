@@ -24,6 +24,6 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: rounded # Options: circle (default), square, rounded
       background:
-      image:
-        filename: bg.png
+        image:
+          filename: bg.png
 ---
