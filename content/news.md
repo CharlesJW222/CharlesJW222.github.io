@@ -1,7 +1,7 @@
 ---
 title: "News"
 type: page
-layout: page
+layout: docs
 draft: false
 ---
 
