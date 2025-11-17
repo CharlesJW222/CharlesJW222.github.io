@@ -32,7 +32,7 @@ I am very honored to be the second author of our collaborative work on deepfake 
 I will act as a Research Associate and mainly work on the project “CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space,” funded by the Alan Turing Institute (AICD Research Centre).
 
 **[Jun 2024]**  
-I received the ELLIS Manchester Scholarship and attended the ELLIS Summer Session hosted at the University of Manchester.
+I won the ELLIS Manchester Scholarship and thanks for supporting me to attended the ELLIS Summer Session hosted at the University of Manchester.
 
 **[Jan 2024]**  
 I was very happy to announce that my Master’s thesis research on Explainable AI and Chemistry (AI4Science) was accepted for publication in the top journal CEJ (Chemical Engineering Journal). This was my first first-author publication.
