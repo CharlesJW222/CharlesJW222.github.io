@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2025-11-24
+date: 2025-11-16
 type: page
 layout: page
 draft: false
