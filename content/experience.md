@@ -33,7 +33,8 @@ Focus: AI4Science, Explainable AI
 
 ### BSc (Hons) in Computer Science (Artificial Intelligence)  
 **University of Liverpool & Xi’an Jiaotong-Liverpool University** · 2018 — 2022  
-GPA: 4.0/4.0 · First Class Honours  
+GPA: 4.0/4.0 
+Award: First Class Honours
 
 ---
 
@@ -41,7 +42,7 @@ GPA: 4.0/4.0 · First Class Honours
 
 ### Research Associate  
 **University of Liverpool** · 2024 — Present  
-Working on the *CRoCS* project funded by the Alan Turing Institute.  
+Mainly Participated in Project "CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space" which is funded by Alan Turing Institute (The AI for Cyber Defence (AICD) Research Centre).
 Focus: neuro-symbolic AI, cyber defence, autonomous agents.
 
 ---
@@ -79,4 +80,4 @@ Demonstrator for Courses:
 ## 🌐 Languages
 
 - **Chinese** — Native  
-- **English** — Professional  
+- **English** — Fluent  
