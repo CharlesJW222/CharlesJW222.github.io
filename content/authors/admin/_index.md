@@ -48,8 +48,7 @@ Hi all, my name is Jinwei Hu(胡津玮) and I am a Ph.D. student in Computer Sci
 
 Before starting my Ph.D., I completed an MSc in Applied Computational Science and Engineering with Distinction at Imperial College London, where my thesis, which was supervised by Dr. Sibo Cheng at the Data Science Institute, focused on AI4Science and explainable AI. I also hold a BSc (Hons) in Computer Science (Artificial Intelligence) with First Class from the University of Liverpool and a BSc in Information and Computing Science from Xi’an Jiaotong-Liverpool University.
 
-📚 My Research Interests
-My current research interests include but not limited to:
+📚 My current research interests include but not limited to:
 
 - Generative AI
 - Responsible AI
