@@ -39,5 +39,7 @@ I was very happy to announce that my Master’s thesis research on Explainable A
 
 ---
 
+## 🗓️ 2023
+
 [Oct 2023]
 I successfully graduated from Imperial College London and was honored to receive the highest academic award of Master of Science with Distinction in UK.
