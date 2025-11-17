@@ -3,7 +3,7 @@
 title: Jinwei Hu
 
 # Name pronunciation (optional)
-name_pronunciation: 'Jinwei'
+name_pronunciation: '胡津玮'
 
 # Full name (for SEO)
 first_name: Jinwei
