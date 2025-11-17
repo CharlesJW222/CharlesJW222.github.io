@@ -29,11 +29,11 @@ sections:
         shape: rounded # Options: circle (default), square, rounded
     advanced:
       css_style: |
-      /* 单独放大 Research Interests */
-      .big-interests {
-        font-size: 2.2rem !important;
-        line-height: 2.4rem !important;
-        font-weight: 700 !important;
-      }
+        /* 单独放大 Research Interests */
+        .big-interests {
+          font-size: 2.2rem !important;
+          line-height: 2.4rem !important;
+          font-weight: 700 !important;
+        }
     
 ---
