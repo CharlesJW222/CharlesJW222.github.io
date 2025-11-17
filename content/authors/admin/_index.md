@@ -41,11 +41,6 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/my-orcid?orcid=0009-0008-5261-211X
 
-interests:
-  - Large Language Models
-  - Responsible AI
-  - Agentic AI
-  - AI4Science
 
 education:
   - area: Ph.D. in Computer Science
