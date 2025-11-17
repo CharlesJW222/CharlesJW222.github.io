@@ -7,7 +7,6 @@
 appearance:
   mode: system
   color: indigo
-  favicon: "media/favicon.png"
 
 # SEO
 marketing:
