@@ -27,11 +27,11 @@ sections:
         shape: rounded # Options: circle (default), square, rounded
     advanced:
       css_style: |
-        /* 单独放大 Research Interests */
-        .biography-interests .section-subheading,
-        .biography-interests h3 {
+        /* 精准放大 Research Interests 标题 */
+        .resume-biography h3.text-xl {
           font-size: 1.8rem !important;
+          line-height: 2.2rem !important;
           font-weight: 700 !important;
         }
-
+    
 ---
