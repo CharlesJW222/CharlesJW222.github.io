@@ -3,18 +3,15 @@
 title: Jinwei Hu
 
 # Name pronunciation (optional)
-name_pronunciation: '胡津玮'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Jinwei
 last_name: Hu
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: 胡津玮
 
-# Status emoji
-status:
-  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student @ UoL
+role: Ph.D. Student @ UoL & TACPS Lab
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
