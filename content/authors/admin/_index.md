@@ -10,8 +10,7 @@ first_name: Jinwei
 last_name: Hu
 
 # Pronouns (optional)
-pronouns: 胡津玮
-
+pronouns: he/him
 
 # Is this the primary user of the site?
 superuser: true
