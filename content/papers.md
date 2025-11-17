@@ -3,6 +3,16 @@ title: "Publications"
 type: page
 layout: page
 draft: false
+
+share: false          # ❌ 关闭社交分享图标（X / Facebook / LinkedIn 那一排）
+pager: false          # ❌ 关闭 “Experience / Publications” 上下篇导航
+show_related: false   # ❌ 关闭推荐内容
+profile: false        # ❌ 关闭作者信息卡
+commentable: false    # ❌ 关闭评论
+backlinks: false      # ❌ 关闭右侧/底部的反向链接
+show_breadcrumb: false
+show_date: false      # ❌ 不显示发布日期
+reading_time: false   # ❌ 不显示阅读时间
 ---
 
 ---
