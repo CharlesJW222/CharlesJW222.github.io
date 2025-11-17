@@ -12,6 +12,12 @@ cascade:
   show_breadcrumb: false
   show_author: false
   show_date: false
+
+advanced:
+  css_style: |
+    footer, .page-footer, .article-nav {
+      display: none !important;
+    }
 ---
 
 # News
