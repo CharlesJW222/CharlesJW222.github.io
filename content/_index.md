@@ -17,7 +17,9 @@ sections:
       headings:
         about: 'About Me'
         education: ''
-        interests: 'Research Interests'
+        interests:
+          text: 'Research Interests'
+          class: 'big-interests'
     design:
       # Apply a gradient background
       css_class: "hbx-bg-gradient top-tight"
@@ -27,11 +29,11 @@ sections:
         shape: rounded # Options: circle (default), square, rounded
     advanced:
       css_style: |
-        /* 精准放大 Research Interests 标题 */
-        .resume-biography h3.text-xl {
-          font-size: 4.8rem !important;
-          line-height: 2.2rem !important;
-          font-weight: 700 !important;
-        }
+      /* 单独放大 Research Interests */
+      .big-interests {
+        font-size: 2.2rem !important;
+        line-height: 2.4rem !important;
+        font-weight: 700 !important;
+      }
     
 ---
