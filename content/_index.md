@@ -29,7 +29,7 @@ sections:
       css_style: |
         /* 精准放大 Research Interests 标题 */
         .resume-biography h3.text-xl {
-          font-size: 1.8rem !important;
+          font-size: 4.8rem !important;
           line-height: 2.2rem !important;
           font-weight: 700 !important;
         }
