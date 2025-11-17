@@ -3,6 +3,15 @@ title: "News"
 type: page
 layout: docs
 draft: false
+
+cascade:
+  show_footer: false
+  show_nav: false
+  show_related: false
+  show_comments: false
+  show_breadcrumb: false
+  show_author: false
+  show_date: false
 ---
 
 # News
