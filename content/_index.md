@@ -15,15 +15,15 @@ sections:
       username: admin
       text: ''
       headings:
-        about: 'Bio'
+        about: 'About Me'
         education: ''
-        interests: ''
+        interests: 'Research Interests'
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
-        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: xl # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: square # Options: circle (default), square, rounded
 
 ---
