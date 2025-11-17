@@ -68,11 +68,11 @@ Demonstrator for Courses:
 
 ## 🎯 Hobbies
 
-- **Badminton** 🏸  
-- **Basketball** 🏀  
-- **Skiing** ⛷️  
-- **Photography** 📷  
-- **Travel** 🌍 
+- 🏸 **Badminton**   
+- 🏀 **Basketball**   
+- ⛷️ **Skiing**   
+- 📷 **Photography**   
+- 🌍 **Travel**  
 
 ---
 
