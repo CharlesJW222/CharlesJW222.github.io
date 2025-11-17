@@ -16,7 +16,6 @@ sections:
       text: ''
       headings:
         about: 'About Me'
-        education: ''
     design:
       # Apply a gradient background
       css_class: "hbx-bg-gradient top-tight"
