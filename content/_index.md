@@ -17,7 +17,6 @@ sections:
       headings:
         about: 'About Me'
         education: ''
-        interests: 'Research Interests'
     design:
       # Apply a gradient background
       css_class: "hbx-bg-gradient top-tight"
