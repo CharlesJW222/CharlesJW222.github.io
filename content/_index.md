@@ -18,9 +18,19 @@ sections:
         about: 'About Me'
     design:
       # Apply a gradient background
-      css_class: "hbx-bg-gradient top-tight"
+      css_class: "home-custom-bg hbx-bg-gradient top-tight"
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: rounded # Options: circle (default), square, rounded
+    advanced:
+      css_style: |
+        /* 自定义首页背景图 */
+        .home-custom-bg {
+          background-image: url('/media/home-bg.jpg') !important;
+          background-size: cover !important;
+          background-position: center !important;
+          background-repeat: no-repeat !important;
+          background-attachment: fixed !important; /* 可选：固定视差效果 */
+        }
 ---
