@@ -71,7 +71,7 @@ Demonstrator for Courses:
 
 - 🏸 **Badminton**   
 - 🏀 **Basketball**   
-- ⛷️ **Skiing**   
+- 🏂 **Snowboarding**   
 - 📷 **Photography**   
 - 🌍 **Travel**  
 
