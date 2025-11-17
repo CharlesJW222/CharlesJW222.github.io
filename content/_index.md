@@ -27,7 +27,7 @@ sections:
       css_style: |
         /* 自定义首页背景图 */
         .home-custom-bg {
-          background-image: url('/media/home-bg.jpg') !important;
+          background-image: url('/media/favicon.png') !important;
           background-size: cover !important;
           background-position: center !important;
           background-repeat: no-repeat !important;
