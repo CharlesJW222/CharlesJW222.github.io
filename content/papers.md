@@ -17,13 +17,11 @@ reading_time: false   # ❌ 不显示阅读时间
 
 ---
 
-## **2026**
+## **2025**
 
 **Tapas are free! Training-Free Adaptation of Programmatic Agents via LLM-Guided Program Synthesis in Dynamic Environments**  
 *The AAAI Conference on Artificial Intelligence (AAAI 2026 Oral)*  
 Authors: **J Hu**; Y Dong; S Yun; X Huang
-
-## **2025**
 
 **FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model**  
 *Annual Conference on Neural Information Processing Systems (NeurIPS 2025)*  
