@@ -49,16 +49,16 @@ I am very honored to be the second author of our collaborative work on social me
 ## 🗓️ 2024
 
 **[Sep 2024]**  
-I will act as a Research Associate and mainly work on the project “CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space,” funded by the Alan Turing Institute (AICD Research Centre).
+I will act as a **Research Associate** and mainly work on the project “CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space,” funded by the Alan Turing Institute (AICD Research Centre).
 
 **[Jun 2024]**  
 I won the **ELLIS Manchester Scholarship** and thanks for supporting me to attended the ELLIS Summer Session hosted at the University of Manchester.
 
 **[May 2024]**  
-I served as a Reviewer for **ECAI 2024**.
+I served as a **Reviewer** for **ECAI 2024**.
 
 **[Jan 2024]**  
-I am very happy to announce that my Master’s thesis research on Explainable AI and Chemistry (AI4Science) was accepted for publication in the top journal **CEJ**. This is my first first-author publication.
+I am very happy to announce that my Master’s thesis research on **Explainable AI and Chemistry (AI4Science)** was accepted for publication in the top journal **CEJ**. This is my first first-author publication.
 
 ---
 
