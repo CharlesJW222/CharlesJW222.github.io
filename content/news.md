@@ -30,7 +30,7 @@ My work on randomized smoothing for LLM-driven multi-agent systems was accepted 
 I am delighted that the first first-author paper of my PhD journey at UoL, focusing on adversarial testing for industrial cyber-physical systems, was published in **TICPS**.
 
 **[Feb 2025]**  
-I am very honored to be the second author of our collaborative work on deepfake detection accepted by **CVPR 2025**.
+I am very honored to be the second author of our collaborative work on social media deepfake detection which is accepted by **CVPR 2025**.
 
 ---
 
