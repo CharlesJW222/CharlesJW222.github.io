@@ -18,8 +18,7 @@ reading_time: false   # ❌ 不显示阅读时间
 ## 🗓️ 2025
 
 **[Nov 2025]**  
-I am excited to share that my latest first-author work has been accepted at **AAAI 2026** and selected for an **Oral** Presentation. This is my first oral presentation at a top AI conference.
-
+I am excited to share that my latest first-author work has been accepted at **AAAI 2026** and selected for an **Oral** Presentation.
 **[Sep 2025]**  
 My first-author research on LLM unlearning has been accepted at **NeurIPS 2025**. This is my first top-tier AI conference paper, and being recognized by NeurIPS marks an important milestone in my academic career.
 
