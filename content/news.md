@@ -23,13 +23,13 @@ I am excited to share that my latest first-author work has been accepted at **AA
 **[Sep 2025]**  
 My first-author research on LLM unlearning has been accepted at **NeurIPS 2025**.
 
-**[Sep 2025]**
+**[Sep 2025]**  
 Our emerging research work on LLM-powered agent's responsibility has been accepted as a poster by **UKAIRS 2025**.
 
-**[Aug 2025]**
+**[Aug 2025]**  
 I served as a **Reviewer** for **NeurIPS 2025**, reviewing submissions in the area of AI safety.
 
-**[Aug 2025]**
+**[Aug 2025]**  
 I served as a **Programme Committee Member** for **AAAI 2026**, contributing to the review process for papers in main technical track.
 
 **[Aug 2025]**  
@@ -63,8 +63,8 @@ I am very happy to announce that my Master’s thesis research on **Explainable 
 ---
 
 ## 🗓️ 2023
-**[Dec 2023]**
+**[Dec 2023]**  
 I am awarded a **full scholarship** to pursue my PhD at the **University of Liverpool** and joined the Trustworthy Autonomous Cyber Physical Systems (ACPS) Lab, under the supervision of Prof. Xiaowei Huang and Dr. Yi Dong.
 
-**[Oct 2023]**
+**[Oct 2023]**  
 I successfully graduate from **Imperial College London** and is honored to receive the highest academic award of **Master of Science with Distinction** in UK.
