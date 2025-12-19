@@ -17,7 +17,7 @@ reading_time: false   # ❌ 不显示阅读时间
 
 ## 🗓️ 2025
 
-**[Dec 2025]**
+**[Dec 2025]**  
 I was invited to present a talk on AI in Programmatic Agents at the Trustworthy AI+ Workshop, co-hosted by King’s College London (KCL) and the University of Exeter.
 
 **[Nov 2025]**  
