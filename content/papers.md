@@ -18,6 +18,11 @@ reading_time: false   # ❌ 不显示阅读时间
 ---
 ## **2026**
 
+**DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing**  
+*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)*  
+Authors: **J Hu**; S Meng; Y Dong; X Huang
+
+
 **Tapas Are free! Training-Free Adaptation of Programmatic Agents via LLM-Guided Program Synthesis in Dynamic Environments**  
 *The AAAI Conference on Artificial Intelligence (AAAI 2026 Oral)*  
 Authors: **J Hu**; Y Dong; S Yun; X Huang
