@@ -18,10 +18,10 @@ reading_time: false   # ❌ 不显示阅读时间
 ## 🗓️ 2026
 
 **[Jan 2026]**  
-One of my paper about adversarial robustness testing has been accepted at **IEEE ICASSP 2026** which will be hosted at Barcelona, Spain.
+I will give an **Oral Presentation** at **AAAI 2026** at **Singapore EXPO**.
 
 **[Jan 2026]**  
-I will give an **Oral Presentation** at **AAAI 2026** at **Singapore EXPO**.
+One of my paper about adversarial robustness testing has been accepted at **IEEE ICASSP 2026** which will be hosted at Barcelona, Spain.
 
 ---
 
