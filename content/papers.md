@@ -22,10 +22,13 @@ reading_time: false   # ❌ 不显示阅读时间
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)*  
 Authors: **J Hu**; S Meng; Y Dong; X Huang
 
+**Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage**  
+*arXiv preprint arXiv:2601.01685*  
+Authors: **J Hu**; X Huang; Y Dong; Y Sun; X Huang
 
 **Tapas Are free! Training-Free Adaptation of Programmatic Agents via LLM-Guided Program Synthesis in Dynamic Environments**  
 *The AAAI Conference on Artificial Intelligence (AAAI 2026 Oral)*  
-Authors: **J Hu**; Y Dong; S Yun; X Huang
+Authors: **J Hu**; Y Dong; Y Sun; X Huang
 
 ## **2025**
 
@@ -34,7 +37,7 @@ Authors: **J Hu**; Y Dong; S Yun; X Huang
 Authors: **J Hu**; Z Huang; X Yin; W Ruan; G Cheng; Y Dong; X Huang
 
 **Stop Reducing Responsibility in LLM-Powered Multi-Agent Systems to Local Alignment**  
-arXiv preprint arXiv:2510.14008, 2025  
+*arXiv preprint arXiv:2510.14008*  
 Authors: **J. Hu**; Y. Dong; S. Ao; Z. Li; B. Wang; L. Singh; G. Cheng; S.D. Ramchurn; X. Huang
 
 **Safeguarding large language models: A survey**  
@@ -54,11 +57,11 @@ Authors: S Ao; Y Dong; **J Hu**; SD Ramchurn
 Authors: **J Hu**; Z Tang; X Jin; B Zhang; Y Dong; X Huang
 
 **TAIJI: Textual Anchoring for Immunizing Jailbreak Images in Vision Language Models**  
-arXiv preprint arXiv:2503.10872  
+*arXiv preprint arXiv:2503.10872*  
 Authors: X Yin; Y Qi; **J Hu**; Z Chen; Y Dong; X Zhao; X Huang; W Ruan
 
 **CeTAD: Towards Certified Toxicity-Aware Distance in Vision Language Models**  
-arXiv preprint arXiv:2503.10661  
+*arXiv preprint arXiv:2503.10661*  
 Authors: X Yin; J Liu; Z Chen; **J Hu**; Y Dong; X Huang; W Ruan
 
 **SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model**  
@@ -78,7 +81,7 @@ Authors: C Xie; **J Hu**; G Vasdravellis; X Wang; S Cheng
 Authors: N. Basha; R. Arcucci; P. Angeli; C. Anastasiou; T. Abadie; C.Q. Casas; J. Chen; S. Cheng; L. Chagot; F. Galvanin; C.E. Heaney; F. Hossein; **J. Hu**; N. Kovalchuk; M. Kalli; L. Kahouadji; M. Kerhouant; A. Lavino; F. Liang; K. Nathanael; L. Magri; P. Lettieri; M. Materazzi; M. Erigo; P. Pico; C.C. Pain; M. Shams; M. Simmons; T. Traverso; J.P. Valdes; Z. Wolffs; K. Zhu; Y. Zhuang; O.K. Matar
 
 **Trust-oriented adaptive guardrails for large language models**  
-arXiv preprint arXiv:2408.08959  
+*arXiv preprint arXiv:2408.08959*  
 Authors: **J Hu**; Y Dong; X Huang
 
 **Position: Building guardrails for large language models requires systematic design**  
@@ -86,7 +89,7 @@ Authors: **J Hu**; Y Dong; X Huang
 Authors: Y Dong; R Mu; G Jin; Y Qi; **J Hu**; X Zhao; J Meng; W Ruan; X Huang
 
 **Explainable global wildfire prediction models using graph neural networks**  
-arXiv preprint arXiv:2402.01572  
+*arXiv preprint arXiv:2402.01572*  
 Authors: D Chen; S Cheng; **J Hu**; M Kasaer; R Arcucci
 
 **Explainable AI models for predicting drop coalescence in microfluidics device**  
