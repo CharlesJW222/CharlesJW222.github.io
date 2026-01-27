@@ -51,7 +51,7 @@ My work on randomized smoothing for LLM-driven multi-agent systems was accepted 
 **[Jul 2025]**  
 I am delighted that the first first-author paper of my PhD journey at UoL, focusing on adversarial testing for industrial cyber-physical systems, was published in **TICPS**.
 
-**[Jun 2025]** 
+**[Jun 2025]**  
 I served as a **Programme Committee Member** for **UKAIRS 2025**
 
 **[Feb 2025]**  
