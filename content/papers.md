@@ -30,6 +30,10 @@ Authors: **J Hu**; X Huang; Y Dong; Y Sun; X Huang
 *The AAAI Conference on Artificial Intelligence (AAAI 2026 Oral)*  
 Authors: **J Hu**; Y Dong; Y Sun; X Huang
 
+**Explainable global wildfire prediction models using graph neural networks**  
+*Geodata and AI*  
+Authors: D Chen; Y Yang; **J Hu**; M Kasoar; R Arcucci; S Cheng
+
 ## **2025**
 
 **FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model**  
@@ -87,10 +91,6 @@ Authors: **J Hu**; Y Dong; X Huang
 **Position: Building guardrails for large language models requires systematic design**  
 *International Conference on Machine Learning (ICML 2024)*  
 Authors: Y Dong; R Mu; G Jin; Y Qi; **J Hu**; X Zhao; J Meng; W Ruan; X Huang
-
-**Explainable global wildfire prediction models using graph neural networks**  
-*arXiv preprint arXiv:2402.01572*  
-Authors: D Chen; S Cheng; **J Hu**; M Kasaer; R Arcucci
 
 **Explainable AI models for predicting drop coalescence in microfluidics device**  
 *Chemical Engineering Journal*, 2024  
