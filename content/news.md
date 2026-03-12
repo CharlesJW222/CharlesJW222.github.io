@@ -70,6 +70,10 @@ I will act as a **Research Associate** and mainly work on the project “CRoCS: 
 **[Jun 2024]**  
 I won the **ELLIS Manchester Scholarship** and thanks for supporting me to attended the ELLIS Summer Session hosted at the University of Manchester.
 
+
+**[May 2024]**  
+I gave a tutorial session about **"How to Control LLMs’ behaviors and Design Strategy to safeguard LLMs"** at TACPS & Trust-AI Reading Group.
+
 **[May 2024]**  
 I served as a **Reviewer** for **ECAI 2024**.
 
