@@ -58,7 +58,7 @@ Please reach out to collaborate 😃
 - *2023.12*: &nbsp; 🏆 Awarded a **full scholarship** to pursue my PhD at the **University of Liverpool** and joined the Trustworthy Autonomous Cyber Physical Systems (ACPS) Lab, under the supervision of Prof. Xiaowei Huang and Dr. Yi Dong.  
 - *2023.10*: &nbsp; 🎓 Graduated from **Imperial College London** and is honored to receive the highest academic award of **Master of Science with Distinction** in UK.  
 
-# 📝 Selected Publications 
+# 📝 Selected Publications in Conference
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/AAAI26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,12 +67,63 @@ Please reach out to collaborate 😃
 
 **Jinwei Hu**, Yi Dong, Youcheng Sun, Xiaowei Huang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Nips25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model](https://arxiv.org/abs/2502.01472)
+
+**Jinwei Hu**, Zhenglin Huang, Xiangyu Yin, Wenjie Ruan, Guangliang Cheng, Yi Dong, Xiaowei Huang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing](https://arxiv.org/abs/2601.14302)
+
+**Jinwei Hu**, Shiyuan Meng, Yi Dong, Xiaowei Huang
+
+</div>
+</div>
+
+# 📝 Selected Publications in Journal
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Aeronautics</div><img src='images/CJOA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Robustness of LLM-Driven Multi-Agent Systems through Randomized Smoothing](https://www.sciencedirect.com/science/article/pii/S1000936125003851)
+
+**Jinwei Hu**, Yi Dong, Zhengtao Ding, Xiaowei Huang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Industrial Cyber-Physical Systems</div><img src='images/TICPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hierarchical Testing With Rabbit Optimization for Industrial Cyber-Physical Systems](https://ieeexplore.ieee.org/abstract/document/11077439)
+
+**Jinwei Hu**, Zezhi Tang, Xin Jin, Benyuan Zhang, Yi Dong, Xiaowei Huang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chemical Engineering Journal</div><img src='images/CEJ.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Explainable AI models for predicting drop coalescence in microfluidics device](https://www.sciencedirect.com/science/article/pii/S1385894723071978)
+
+**Jinwei Hu**, Kewei Zhu, Sibo Cheng, Nina M Kovalchuk, Alfred Soulsby, Mark JH Simmons, Omar K Matar, Rossella Arcucci
+
+</div>
+</div>
+
+# - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
