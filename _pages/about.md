@@ -17,9 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello! I’m Jinwei Hu (胡津玮), currently pursuing my Ph.D. in Computer Science at the University of Liverpool under the supervision of Prof. Xiaowei Huang and Dr. Yi Dong. My research focuses on understanding and improving the robustness, interpretability, and reliability of modern AI systems, particularly in safety-critical settings. I am especially interested in LLM-driven agents operating in dynamic or adversarial environments, the emergence of collusive behaviours among autonomous agents, and fine-grained knowledge manipulation techniques such as LLM unlearning. I also work on simulation-driven cyber defence, multi-agent coordination, and the integration of symbolic structure with generative intelligence.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Before starting my Ph.D., I completed an MSc in Applied Computational Science and Engineering with Distinction at Imperial College London, where I conducted research on AI4Science and explainable AI under the supervision of Dr. Sibo Cheng and Dr. Rossella Arcucci from the Data Science Institute.I also hold a First Class BSc (Hons) in Computer Science (Artificial Intelligence) from the University of Liverpool and BSc in Information and Computing Science from Xi’an Jiaotong-Liverpool University.
+
+📚 My current research interests include but not limited to:
+
+- Generative AI
+- Responsible AI
+- Agentic AI
+- AI Safety and Security
+- AI4Science
+  
+Please reach out to collaborate 😃
+
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=lpql_8kAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=lpql_8kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
