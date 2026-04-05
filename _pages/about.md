@@ -128,6 +128,18 @@ Please reach out to collaborate 😃
 **Other publication details are shown in [Google Scholar](https://scholar.google.com/citations?user=lpql_8kAAAAJ).**
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+# 💻 Involved Projects
+- **Robustifying Generative AI through Human-Centric Integration of Neural and Symbolic Methods**  
+  - Role: Research Associate  
+  - Funding: EU Horizon   
+- **CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space**  
+  - Role: Research Associate  
+  - Funding: Alan Turing Institute (AI for Cyber Defence (AICD) Research Centre)
+<!--- **Development of AI-Based Digital Platform and Service to Enhance Efficiency and Safety for Ships and PORTs (AI-PASSPORT)**  
+  - Role: Research Associate  
+  - Funding: Innovate UK -->   
+
+
 # 🎖 Honors and Awards
 - *2024.06*: **ELLIS Manchester Scholarship**, funded by the University of Manchester.  
 - *2023.12*: **PhD Full Scholarship**, funded by the University of Liverpool.  
