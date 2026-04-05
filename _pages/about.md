@@ -124,7 +124,8 @@ Please reach out to collaborate 😃
 </div>
 </div>
 
-Other publication details are shown in [Google Scholar](https://scholar.google.com/citations?user=lpql_8kAAAAJ).
+
+**Other publication details are shown in [Google Scholar](https://scholar.google.com/citations?user=lpql_8kAAAAJ).**
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
