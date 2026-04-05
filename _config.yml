@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinwei Hu"
-description              : "Ph.D. Student @ UoL & TACPS Lab"
+description              : "Ph.D. Student @ UoL &amp; TACPS Lab"
 repository               : "CharlesJW222/CharlesJW222.github.io"
 google_scholar_stats_use_cdn : true
 
