@@ -124,25 +124,26 @@ Please reach out to collaborate 😃
 </div>
 </div>
 
+Other publication details are shown in [Google Scholar](https://scholar.google.com/citations?user=lpql_8kAAAAJ).
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.06*: &nbsp; **ELLIS Manchester Scholarship**, funded by the University of Manchester.  
-- *2023.12*: &nbsp; **PhD Full Scholarship**, funded by the University of Liverpool.  
-- *2023.10*: &nbsp; **Msc with Distinction**, Imperial College London.  
-- *2022.07*: &nbsp; **Bsc with First Class Honours** in Computer Science (Artificial Intelligence), University of Liverpool.  
-- *2022.07*: &nbsp; **Bsc with First Class Honours** in Information and Computing Science, Xi’an Jiaotong-Liverpool University.  
+- *2024.06*: **ELLIS Manchester Scholarship**, funded by the University of Manchester.  
+- *2023.12*: **PhD Full Scholarship**, funded by the University of Liverpool.  
+- *2023.10*: **Msc with Distinction**, Imperial College London.  
+- *2022.07*: **Bsc with First Class Honours** in Computer Science (Artificial Intelligence), University of Liverpool.  
+- *2022.07*: **Bsc with First Class Honours** in Information and Computing Science, Xi’an Jiaotong-Liverpool University.  
 
 # 📖 Educations
-- *2023.12 – Present*: &nbsp; **PhD in Computer Science**, University of Liverpool, UK  
-- *2022.10 – 2023.10*: &nbsp; **MSc in Applied Computational Science and Engineering**, Imperial College London, UK  
-- *2020.09 – 2022.07*: &nbsp; **BSc in Computer Science (Artificial Intelligence)**, University of Liverpool, UK  
-- *2018.09 – 2020.06*: &nbsp; **BSc in Information and Computing Science**, Xi’an Jiaotong-Liverpool University, China  
+- *2023.12 – Present*: **PhD in Computer Science**, University of Liverpool, UK  
+- *2022.10 – 2023.10*: **MSc in Applied Computational Science and Engineering**, Imperial College London, UK  
+- *2020.09 – 2022.07*: **BSc in Computer Science (Artificial Intelligence)**, University of Liverpool, UK  
+- *2018.09 – 2020.06*: **BSc in Information and Computing Science**, Xi’an Jiaotong-Liverpool University, China  
 
 # 💬 Invited Talks
-- *2026.01*: &nbsp; **Oral Presentation** at **AAAI 2026**, Singapore EXPO. 
-- *2025.12*: &nbsp; Invited talk on **AI in Programmatic Agents** at the **Trustworthy AI+ Workshop**, co-hosted by King’s College London and the University of Exeter.  
-- *2024.05*: &nbsp; Tutorial on **"How to Control LLMs’ behaviors and Design Strategy to safeguard LLMs"** at TACPS & Trust-AI Reading Group.  
+- *2026.01*: **Oral Presentation** at **AAAI 2026**, Singapore EXPO. 
+- *2025.12*: Invited talk on **AI in Programmatic Agents** at the **Trustworthy AI+ Workshop**, co-hosted by King’s College London and the University of Exeter.  
+- *2024.05*: Tutorial on **["How to Control LLMs’ behaviors and Design Strategy to safeguard LLMs"](https://cgi.csc.liv.ac.uk/~acps/tutorial04/)** at TACPS & Trust-AI Reading Group. 
 
 # 🤝 Services
 ## Journal Reviewing
@@ -151,9 +152,10 @@ Please reach out to collaborate 😃
 - **IEEE Internet of Things Journal (IoTJ)**  
 
 ## Conference Program Committee / Reviewer
-- **AAAI 2026 (40th AAAI Conference on Artificial Intelligence)**  
-- **AAMAS 2026 (25th International Conference on Autonomous Agents and Multiagent Systems)**  
-- **NeurIPS 2025 (39th Conference on Neural Information Processing Systems)**  
-- **ICML 2025 (42nd International Conference on Machine Learning)**  
-- **UKAIRS 2025 (UK Artificial Intelligence Research Symposium)**  
+- **AAAI 2026**  
+- **AAMAS 2026**  
+- **NeurIPS 2025**  
+- **ICML 2025**  
+- **UKAIRS 2025**
+- **ECAI 2024**
 <!--# 💻 Internships - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
