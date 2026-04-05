@@ -58,7 +58,8 @@ Please reach out to collaborate 😃
 - *2023.12*: &nbsp; 🏆 Awarded a **full scholarship** to pursue my PhD at the **University of Liverpool** and joined the Trustworthy Autonomous Cyber Physical Systems (ACPS) Lab, under the supervision of Prof. Xiaowei Huang and Dr. Yi Dong.  
 - *2023.10*: &nbsp; 🎓 Graduated from **Imperial College London** and is honored to receive the highest academic award of **Master of Science with Distinction** in UK.  
 
-# 📝 Selected Publications in Conference
+# 📝 Publications
+## Selected Publications in Conference
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/AAAI26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -91,7 +92,7 @@ Please reach out to collaborate 😃
 </div>
 </div>
 
-# 📝 Selected Publications in Journal
+## Selected Publications in Journal
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Aeronautics</div><img src='images/CJOA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -134,7 +135,6 @@ Please reach out to collaborate 😃
 
 # 📖 Educations
 - *2023.12 – Present*: &nbsp; **PhD in Computer Science**, University of Liverpool, UK  
-  &nbsp;&nbsp;&nbsp;&nbsp;Supervisors: Prof. Xiaowei Huang, Dr. Yi Dong  
 - *2022.10 – 2023.10*: &nbsp; **MSc in Applied Computational Science and Engineering**, Imperial College London, UK  
 - *2020.09 – 2022.07*: &nbsp; **BSc in Computer Science (Artificial Intelligence)**, University of Liverpool, UK  
 - *2018.09 – 2020.06*: &nbsp; **BSc in Information and Computing Science**, Xi’an Jiaotong-Liverpool University, China  
@@ -144,8 +144,7 @@ Please reach out to collaborate 😃
 - *2025.12*: &nbsp; Invited talk on **AI in Programmatic Agents** at the **Trustworthy AI+ Workshop**, co-hosted by King’s College London and the University of Exeter.  
 - *2024.05*: &nbsp; Tutorial on **"How to Control LLMs’ behaviors and Design Strategy to safeguard LLMs"** at TACPS & Trust-AI Reading Group.  
 
-# 🤝 Academic Services
-
+# 🤝 Services
 ## Journal Reviewing
 - *2026*: &nbsp; 📝 **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**  
 - *2026*: &nbsp; 📝 **ACM Transactions on Software Engineering and Methodology (TOSEM)**  
@@ -157,5 +156,4 @@ Please reach out to collaborate 😃
 - *2025*: &nbsp; **NeurIPS 2025 (39th Conference on Neural Information Processing Systems)**  
 - *2025*: &nbsp; **ICML 2025 (42nd International Conference on Machine Learning)**  
 - *2025*: &nbsp; **UKAIRS 2025 (UK Artificial Intelligence Research Symposium)**  
-<!--# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+<!--# 💻 Internships - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
