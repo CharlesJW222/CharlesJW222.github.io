@@ -156,7 +156,7 @@ Please reach out to collaborate 😃
 # 💬 Invited Talks
 - *2026.01*: **Oral Presentation** at **AAAI 2026**, Singapore EXPO. 
 - *2025.12*: Invited talk on **AI in Programmatic Agents** at the **Trustworthy AI+ Workshop**, co-hosted by King’s College London and the University of Exeter.  
-- *2024.05*: Tutorial on **["How to Control LLMs’ behaviors and Design Strategy to safeguard LLMs"](https://cgi.csc.liv.ac.uk/~acps/tutorial04/)** at TACPS & Trust-AI Reading Group. 
+- *2024.05*: Tutorial on **["How to Control LLMs’ behaviors and Design Strategy to safeguard LLMs"](https://cgi.csc.liv.ac.uk/~acps/tutorial04/)** at TACPS &amp; Trust-AI Reading Group. 
 
 # 🤝 Services
 ## Journal Reviewing
