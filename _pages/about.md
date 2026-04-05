@@ -123,19 +123,28 @@ Please reach out to collaborate 😃
 </div>
 </div>
 
-# - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp; **ELLIS Manchester Scholarship**, funded by the University of Manchester.  
+- *2023.12*: &nbsp; **PhD Full Scholarship**, funded by the University of Liverpool.  
+- *2023.10*: &nbsp; **Msc with Distinction**, Imperial College London.  
+- *2022.07*: &nbsp; **Bsc with First Class Honours** in Computer Science (Artificial Intelligence), University of Liverpool.  
+- *2022.07*: &nbsp; **Bsc with First Class Honours** in Information and Computing Science, Xi’an Jiaotong-Liverpool University.  
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations
+
+- *2023.12 – Present*: &nbsp; **PhD in Computer Science**, University of Liverpool, UK  
+  &nbsp;&nbsp;&nbsp;&nbsp;Supervisors: Prof. Xiaowei Huang, Dr. Yi Dong  
+- *2022.10 – 2023.10*: &nbsp; **MSc in Applied Computational Science and Engineering**, Imperial College London, UK  
+- *2020.09 – 2022.07*: &nbsp; **BSc in Computer Science (Artificial Intelligence)**, University of Liverpool, UK  
+- *2018.09 – 2020.06*: &nbsp; **BSc in Information and Computing Science**, Xi’an Jiaotong-Liverpool University, China  
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2026.01*: &nbsp; **Oral Presentation** at **AAAI 2026**, Singapore EXPO. 
+- *2025.12*: &nbsp; Invited talk on **AI in Programmatic Agents** at the **Trustworthy AI+ Workshop**, co-hosted by King’s College London and the University of Exeter.  
+- *2024.05*: &nbsp; Tutorial on **"How to Control LLMs’ behaviors and Design Strategy to safeguard LLMs"** at TACPS & Trust-AI Reading Group.  
+ 
+<!--# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
