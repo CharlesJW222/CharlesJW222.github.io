@@ -146,9 +146,7 @@ Please reach out to collaborate 😃
 - **CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space**  
   - Role: Research Associate  
   - Funding: Alan Turing Institute (AI for Cyber Defence (AICD) Research Centre)
-<!--- **Development of AI-Based Digital Platform and Service to Enhance Efficiency and Safety for Ships and PORTs (AI-PASSPORT)**  
-  - Role: Research Associate  
-  - Funding: Innovate UK -->   
+<!--- **Development of AI-Based Digital Platform and Service to Enhance Efficiency and Safety for Ships and PORTs (AI-PASSPORT)**  - Role: Research Associate  - Funding: Innovate UK -->   
 
 
 # 🎖 Honors and Awards
