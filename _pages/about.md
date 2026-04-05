@@ -81,6 +81,7 @@ Please reach out to collaborate 😃
 
 **Jinwei Hu**, Zhenglin Huang, Xiangyu Yin, Wenjie Ruan, Guangliang Cheng, Yi Dong, Xiaowei Huang
 
+* A representation-guided unlearning framework that combines contrastive learning, gradient projection, and information-theoretic metrics to enable more precise knowledge removal in LLMs.
 </div>
 </div>
 
@@ -90,6 +91,8 @@ Please reach out to collaborate 😃
 [DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing](https://arxiv.org/abs/2601.14302)
 
 **Jinwei Hu**, Shiyuan Meng, Yi Dong, Xiaowei Huang
+
+* We propose a dual-domain adversarial testing framework that improves efficiency by selectively attacking critical regions and frames, enabling resource-efficient robustness evaluation in real-time image systems.
 
 </div>
 </div>
@@ -103,6 +106,8 @@ Please reach out to collaborate 😃
 
 **Jinwei Hu**, Yi Dong, Zhengtao Ding, Xiaowei Huang
 
+* We propose a defense framework for LLM-driven multi-agent systems that leverages randomized smoothing to provide probabilistic safety guarantees, mitigating malicious behaviors and hallucination propagation while preserving system performance.
+
 </div>
 </div>
 
@@ -113,6 +118,8 @@ Please reach out to collaborate 😃
 
 **Jinwei Hu**, Zezhi Tang, Xin Jin, Benyuan Zhang, Yi Dong, Xiaowei Huang
 
+* We propose HERO, a black-box adversarial testing framework that combines hierarchical analysis and optimization to efficiently generate high-quality time-series adversarial examples, enabling robust evaluation of ICPS applications.
+
 </div>
 </div>
 
@@ -122,6 +129,8 @@ Please reach out to collaborate 😃
 [Explainable AI models for predicting drop coalescence in microfluidics device](https://www.sciencedirect.com/science/article/pii/S1385894723071978)
 
 **Jinwei Hu**, Kewei Zhu, Sibo Cheng, Nina M Kovalchuk, Alfred Soulsby, Mark JH Simmons, Omar K Matar, Rossella Arcucci
+
+* We investigate droplet coalescence prediction in microfluidic systems using machine learning and explainable AI, revealing key physical factors that govern coalescence while ensuring interpretability in AI predictions.
 
 </div>
 </div>
