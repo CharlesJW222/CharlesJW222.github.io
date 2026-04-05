@@ -68,6 +68,10 @@ Please reach out to collaborate 😃
 
 **Jinwei Hu**, Yi Dong, Youcheng Sun, Xiaowei Huang
 
+• We introduce LLMs as intelligent action space moderators for autonomous agents, achieving a paradigm shift from costly policy to efficient action adaptation.
+• We propose TAPA, a training-free framework enabling agents to adapt to evolving environments through LLM-guided symbolic program synthesis while enhancing adaptability, interpretability and traceability.
+• We validate TAPA across safety-critical scenarios including cyber defense and swarm control, demonstrating superior performance in DDoS mitigation and formation control under adversarial disturbances.
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 </div>
 </div>
