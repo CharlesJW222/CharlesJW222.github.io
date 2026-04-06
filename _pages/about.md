@@ -166,9 +166,9 @@ Please reach out to collaborate 😃
 # 🎖 Honors and Awards
 - *2024.06*: **ELLIS Manchester Scholarship**, the University of Manchester.  
 - *2023.12*: **PhD Full Scholarship**, University of Liverpool.  
-- *2023.10*: **Msc with Distinction**, Imperial College London.  
-- *2022.07*: **Bsc with First Class Honours** in Computer Science (Artificial Intelligence), University of Liverpool.  
-- *2022.07*: **Bsc with First Class Honours** in Information and Computing Science, Xi’an Jiaotong-Liverpool University.  
+- *2023.10*: **MSc with Distinction**, Imperial College London.  
+- *2022.07*: **BSc with First Class Honours** in Computer Science (Artificial Intelligence), University of Liverpool.  
+- *2022.07*: **BSc with First Class Honours** in Information and Computing Science, Xi’an Jiaotong-Liverpool University.  
 
 # 📖 Educations
 - *2023.12 – Present*: **PhD in Computer Science**, University of Liverpool, UK  
