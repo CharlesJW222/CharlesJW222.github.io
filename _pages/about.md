@@ -34,8 +34,8 @@ Please reach out to collaborate 😃
 
 # 🔥 News
 - *2026.04*: &nbsp; 🎉 Our paper on multi-agent collusive attack of LLM-based agents in open channel has been accepted at **ACL 2026**.
-- *2026.04*: &nbsp; 📝 Invited as the **Journal Referee** for IEEE Transactions on Neural Networks and Learning Systems (TNNLS).  
-- *2026.03*: &nbsp; 📝 Invited as the **Journal Referee** for ACM Transactions on Software Engineering and Methodology (TOSEM).  
+- *2026.04*: &nbsp; 📝 Invited as the **Journal Referee** for **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.  
+- *2026.03*: &nbsp; 📝 Invited as the **Journal Referee** for **ACM Transactions on Software Engineering and Methodology (TOSEM)**.  
 - *2026.01*: &nbsp; 🎤 Gave an **Oral Presentation** at **AAAI 2026** at **Singapore EXPO**.  
 - *2026.01*: &nbsp; 🎉 Our paper on adversarial robustness testing has been accepted at **IEEE ICASSP 2026** which will be hosted at Barcelona, Spain.  
 
