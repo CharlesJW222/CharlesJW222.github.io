@@ -62,6 +62,19 @@ Please reach out to collaborate 😃
 # 📝 Publications
 ## Selected Publications in Conference
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/ICASSP26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage](https://arxiv.org/abs/2601.01685)
+
+**Jinwei Hu**, Xinmiao Huang, Youcheng Sun, Yi Dong, Xiaowei Huang
+
+* We identify and formalize cognitive collusion in LLM agents, and propose a multi-agent generative montage framework that manipulates beliefs using only truthful evidence, revealing a new class of reasoning-driven vulnerabilities in public channel.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/AAAI26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,7 +99,7 @@ Please reach out to collaborate 😃
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP26.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing](https://arxiv.org/abs/2601.14302)
@@ -96,7 +109,7 @@ Please reach out to collaborate 😃
 * We propose a dual-domain adversarial testing framework that improves efficiency by selectively attacking critical regions and frames, enabling resource-efficient robustness evaluation in real-time image systems.
 
 </div>
-</div>
+</div> -->
 
 ## Selected Publications in Journal
 
