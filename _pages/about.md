@@ -46,8 +46,9 @@ Please reach out to collaborate 😃
 - *2025.08*: &nbsp; 📝 Served as a **Reviewer** for **NeurIPS 2025**, reviewing submissions in the area of AI safety.  
 - *2025.08*: &nbsp; 📝 Served as a **Programme Committee Member** for **AAAI 2026**, contributing to the review process for papers in main technical track.  
 - *2025.08*: &nbsp; 🎉 Our paper on randomized smoothing for LLM-driven multi-agent systems was accepted as a Fast Track publication in the top-tier control journal **CJoA**.  
-- *2025.07*: &nbsp; 🎉 Our paper on adversarial testing for industrial cyber-physical systems, was published in **TICPS**.  
-- *2025.06*: &nbsp; 📝 Served as a **Programme Committee Member** for **UKAIRS 2025**  
+- *2025.07*: &nbsp; 🎉 Our paper on adversarial testing for industrial cyber-physical systems, was published in **TICPS**.
+- *2025.06*: &nbsp; 🎉 Our paper on safe prunning LoRA has been accepted at **TACL**.   
+- *2025.06*: &nbsp; 📝 Served as a **Programme Committee Member** for **UKAIRS 2025**.  
 - *2025.02*: &nbsp; 🎉 Our paper on social media deepfake detection which is accepted by **CVPR 2025**.  
 
 - *2024.09*: &nbsp; 🔬 Act as a **Research Associate** and mainly work on the project “CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space,” funded by the Alan Turing Institute (AICD Research Centre).  
