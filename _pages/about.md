@@ -33,6 +33,7 @@ Please reach out to collaborate 😃
 
 
 # 🔥 News
+- *2026.04*: &nbsp; 📝 Invited as the **Reviewer** for **NeurIPS 2026**.
 - *2026.04*: &nbsp; 🎉 Our paper on multi-agent collusive attack of LLM-based agents in open channel has been accepted at **ACL 2026**.
 - *2026.04*: &nbsp; 📝 Invited as the **Journal Referee** for **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.  
 - *2026.03*: &nbsp; 📝 Invited as the **Journal Referee** for **ACM Transactions on Software Engineering and Methodology (TOSEM)**.  
@@ -45,8 +46,8 @@ Please reach out to collaborate 😃
 - *2025.09*: &nbsp; 🎉 Our emerging research work on LLM-powered agent's responsibility has been accepted as a poster by **UKAIRS 2025**.  
 - *2025.08*: &nbsp; 📝 Served as a **Reviewer** for **NeurIPS 2025**, reviewing submissions in the area of AI safety.  
 - *2025.08*: &nbsp; 📝 Served as a **Programme Committee Member** for **AAAI 2026**, contributing to the review process for papers in main technical track.  
-- *2025.08*: &nbsp; 🎉 Our paper on randomized smoothing for LLM-driven multi-agent systems was accepted as a Fast Track publication in the top-tier control journal **CJoA**.  
-- *2025.07*: &nbsp; 🎉 Our paper on adversarial testing for industrial cyber-physical systems, was published in **TICPS**.
+- *2025.08*: &nbsp; 🎉 Our paper on randomized smoothing for LLM-driven multi-agent systems was accepted as a Fast Track publication in the top-tier journal **CJoA**.  
+- *2025.07*: &nbsp; 🎉 Our paper on adversarial testing for industrial cyber-physical systems, was published in **IEEE TICPS**.
 - *2025.06*: &nbsp; 🎉 Our paper on safe prunning LoRA has been accepted at **TACL**.   
 - *2025.06*: &nbsp; 📝 Served as a **Programme Committee Member** for **UKAIRS 2025**.  
 - *2025.02*: &nbsp; 🎉 Our paper on social media deepfake detection which is accepted by **CVPR 2025**.  
@@ -191,7 +192,7 @@ Please reach out to collaborate 😃
 ## Conference Program Committee / Reviewer
 - **AAAI 2026**  
 - **AAMAS 2026**  
-- **NeurIPS 2025**  
+- **NeurIPS 2025/2026**  
 - **ICML 2025**  
 - **UKAIRS 2025**
 - **ECAI 2024**
