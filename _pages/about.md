@@ -51,7 +51,7 @@ Please reach out to collaborate 😃
 - *2025.07*: &nbsp; 🎉 Our paper on adversarial testing for industrial cyber-physical systems, was published in **IEEE Transactions on ICPS**.
 - *2025.06*: &nbsp; 🎉 Our paper on safe prunning LoRA has been accepted at **TACL**.   
 - *2025.06*: &nbsp; 📝 Served as a **Programme Committee Member** for **UKAIRS 2025**.  
-- *2025.02*: &nbsp; 🎉 Our paper on social media deepfake detection which is accepted by **CVPR 2025**.  
+- *2025.02*: &nbsp; 🎉 Our paper on social media deepfake detection has been accepted by **CVPR 2025**.  
 
 - *2024.09*: &nbsp; 🔬 Act as a **Research Associate** and mainly work on the project “CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space,” funded by the Alan Turing Institute (AICD Research Centre).  
 - *2024.06*: &nbsp; 🏆 Won the **ELLIS Manchester Scholarship** and thanks for supporting me to attended the ELLIS Summer Session hosted at the University of Manchester.  
