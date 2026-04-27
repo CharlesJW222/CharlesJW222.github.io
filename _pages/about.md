@@ -42,11 +42,11 @@ Please reach out to collaborate 😃
 
 - *2025.12*: &nbsp; 🎤 Invited to present a talk on **AI in Programmatic Agents** at the **Trustworthy AI+ Workshop**, co-hosted by King’s College London and the University of Exeter.  
 - *2025.11*: &nbsp; 🎉 Our paper on Agentic AI has been accepted at **AAAI 2026** and selected for an **Oral** Presentation.
-- *2025.10*: &nbsp; 🎉 Our paper on LLM guardrail has been accepted at **Artificial Intelligence Review**.   
+- *2025.10*: &nbsp; 🎉 Our paper on LLM guardrail has been available at **Artificial Intelligence Review**.   
 - *2025.09*: &nbsp; 🎉 Our paper on LLM unlearning has been accepted at **NeurIPS 2025**.  
 - *2025.09*: &nbsp; 🎉 Our emerging research work on LLM-powered agent's responsibility has been accepted as a poster by **UKAIRS 2025**.  
 - *2025.08*: &nbsp; 📝 Served as a **Reviewer** for **NeurIPS 2025**, reviewing submissions in the area of AI safety.  
-- *2025.08*: &nbsp; 📝 Served as a **Programme Committee Member** for **AAAI 2026**, contributing to the review process for papers in main technical track.  
+- *2025.08*: &nbsp; 📝 Served as a **Programme Committee Member** for **AAAI 2026**, contributing to the review process for papers in main track.  
 - *2025.08*: &nbsp; 🎉 Our paper on randomized smoothing for LLM-driven multi-agent systems was accepted as a Fast Track publication in the top-tier journal **CJoA**.  
 - *2025.07*: &nbsp; 🎉 Our paper on adversarial testing for industrial cyber-physical systems, was published in **IEEE Transactions on ICPS**.
 - *2025.06*: &nbsp; 🎉 Our paper on safe prunning LoRA has been accepted at **TACL**.   
@@ -58,7 +58,7 @@ Please reach out to collaborate 😃
 - *2024.05*: &nbsp; 🎤 Gave a tutorial session about **"How to Control LLMs’ behaviors and Design Strategy to safeguard LLMs"** at TACPS & Trust-AI Reading Group.  
 - *2024.05*: &nbsp; 📝 Served as a **Reviewer** for **ECAI 2024**.
 - *2024.05*: &nbsp; 🎉 Our paper on LLM guardrail has been accepted by **ICML 2024**.  
-- *2024.01*: &nbsp; 🎉 My master’s thesis research on **Explainable AI and Chemistry (AI4Science)** was accepted for publication in the top journal **CEJ**.  
+- *2024.01*: &nbsp; 🎉 My master’s thesis on **Explainable AI and Chemistry (AI4Science)** was accepted for publication in the top journal **CEJ**.  
 
 - *2023.12*: &nbsp; 🏆 Awarded a **full scholarship** to pursue my PhD at the **University of Liverpool** and joined the Trustworthy Autonomous Cyber Physical Systems (ACPS) Lab, under the supervision of Prof. Xiaowei Huang and Dr. Yi Dong.  
 - *2023.10*: &nbsp; 🎓 Graduated from **Imperial College London** and is honored to receive the highest academic award of **Master of Science with Distinction** in UK.  
