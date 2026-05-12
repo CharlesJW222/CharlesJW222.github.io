@@ -33,7 +33,7 @@ Please reach out to collaborate 😃
 
 
 # 🔥 News
-- *2026.04*: &nbsp; 📝 Invited as the **Reviewer** for **NeurIPS 2026** Main track and Position Paper track.
+- *2026.04*: &nbsp; 📝 Invited as the **Reviewer** for **NeurIPS 2026**.
 - *2026.04*: &nbsp; 🎉 Our paper on multi-agent collusive attack of LLM-based agents in open channel has been accepted at **ACL 2026**.
 - *2026.04*: &nbsp; 📝 Invited as the **Journal Referee** for **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.  
 - *2026.03*: &nbsp; 📝 Invited as the **Journal Referee** for **ACM Transactions on Software Engineering and Methodology (TOSEM)**.  
@@ -95,11 +95,11 @@ Please reach out to collaborate 😃
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Nips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model](https://arxiv.org/abs/2502.01472)
+[FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model](https://proceedings.neurips.cc/paper_files/paper/2025/hash/9408564a4229f4a933ac9bd09a29ee96-Abstract-Conference.html)
 
 **Jinwei Hu**, Zhenglin Huang, Xiangyu Yin, Wenjie Ruan, Guangliang Cheng, Yi Dong, Xiaowei Huang
 
-* A representation-guided unlearning framework that combines contrastive learning, gradient projection, and information-theoretic metrics to enable more precise knowledge removal in LLMs.
+* We prpose a representation-guided unlearning framework that combines contrastive learning, gradient projection, and information-theoretic metrics to enable more precise knowledge removal in LLMs.
 </div>
 </div>
 
@@ -124,7 +124,7 @@ Please reach out to collaborate 😃
 
 **Jinwei Hu**, Yi Dong, Zhengtao Ding, Xiaowei Huang
 
-* We propose a defense framework for LLM-driven multi-agent systems that leverages randomized smoothing to provide probabilistic safety guarantees, mitigating malicious behaviors and hallucination propagation while preserving system performance.
+* We design a defense framework for LLM-driven multi-agent systems that leverages randomized smoothing to provide probabilistic safety guarantees, mitigating malicious behaviors and hallucination propagation while preserving system performance.
 
 </div>
 </div>
