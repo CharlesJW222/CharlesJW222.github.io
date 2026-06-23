@@ -194,7 +194,7 @@ Please reach out to collaborate 😃
 - **IEEE Internet of Things Journal (IoTJ)**  
 
 ## Conference Program Committee / Reviewer
-- **AAAI 2026**  
+- **AAAI 2026/2027**  
 - **AAMAS 2026**  
 - **NeurIPS 2025/2026**  
 - **ICML 2025**  
