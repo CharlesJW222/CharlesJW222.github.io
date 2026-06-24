@@ -71,7 +71,7 @@ Please reach out to collaborate 😃
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Oral</div><img src='images/ACL26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage](https://arxiv.org/abs/2601.01685)
+[Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage](https://aclanthology.org/2026.acl-long.270/)
 
 **Jinwei Hu**, Xinmiao Huang, Youcheng Sun, Yi Dong, Xiaowei Huang
 
