@@ -33,7 +33,7 @@ Please reach out to collaborate 😃
 
 
 # 🔥 News
-- *2026.04*: &nbsp; 📝 Acted as the **Session Chair** for **ACL 2026**.
+- *2026.07*: &nbsp; 📝 Acted as the **Session Chair** for **ACL 2026**.
 - *2026.06*: &nbsp; 📝 Invited as the **Program Committee** for **AAAI 2027**.
 - *2026.04*: &nbsp; 📝 Invited as the **Reviewer** for **NeurIPS 2026**.
 - *2026.04*: &nbsp; 🎉 Our paper on multi-agent collusive attack of LLM-based agents in open channel has been accepted at **ACL 2026**.
