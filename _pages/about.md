@@ -163,10 +163,10 @@ Please reach out to collaborate 😃
 # 💻 Involved Projects
 - **Robustifying Generative AI through Human-Centric Integration of Neural and Symbolic Methods**  
   - Role: Research Associate  
-  - Funding: EU Horizon   
+  - Funding: EU Horizon, €9.3M   
 - **CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space**  
   - Role: Research Associate  
-  - Funding: Alan Turing Institute (AI for Cyber Defence (AICD) Research Centre)
+  - Funding: Alan Turing Institute (AI for Cyber Defence (AICD) Research Centre), £80K
 <!--- **Development of AI-Based Digital Platform and Service to Enhance Efficiency and Safety for Ships and PORTs (AI-PASSPORT)**  - Role: Research Associate  - Funding: Innovate UK -->   
 
 
