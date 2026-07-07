@@ -33,7 +33,8 @@ Please reach out to collaborate 😃
 
 
 # 🔥 News
-- *2026.07*: &nbsp; 📝 Acted as the **Session Chair** for **ACL 2026**.
+- *2026.07*: &nbsp; 📝 Acted as the **Session Chair** for **ACL 2026** for Session: Mathematical, Symbolic, Neurosymbolic, and Logical Reasoning.
+- *2026.07*: &nbsp; 🎤 Gave an **Oral Presentation** at **ACL 2026** at Harbor D in Grand Hyatt Manchester Hotel, San Diego.  
 - *2026.06*: &nbsp; 📝 Invited as the **Program Committee** for **AAAI 2027**.
 - *2026.04*: &nbsp; 📝 Invited as the **Reviewer** for **NeurIPS 2026**.
 - *2026.04*: &nbsp; 🎉 Our paper on multi-agent collusive attack of LLM-based agents in open channel has been accepted at **ACL 2026**.
@@ -184,6 +185,7 @@ Please reach out to collaborate 😃
 - *2018.09 – 2020.06*: **BSc in Information and Computing Science**, Xi’an Jiaotong-Liverpool University, China  
 
 # 💬 Invited Talks
+- *2026.07*: **Oral Presentation** at **ACL 2026**, San Diego. 
 - *2026.01*: **Oral Presentation** at **AAAI 2026**, Singapore EXPO. 
 - *2025.12*: Invited talk on **AI in Programmatic Agents** at the **Trustworthy AI+ Workshop**, co-hosted by King’s College London and the University of Exeter.  
 - *2024.05*: Tutorial on **["How to Control LLMs’ behaviors and Design Strategy to safeguard LLMs"](https://cgi.csc.liv.ac.uk/~acps/tutorial04/)** at TACPS &amp; Trust-AI Reading Group. 
