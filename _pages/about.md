@@ -44,7 +44,7 @@ Please reach out to collaborate 😃
 - *2026.01*: &nbsp; 🎉 Our paper on adversarial robustness testing has been accepted at **IEEE ICASSP 2026** which will be hosted at Barcelona, Spain.  
 
 - *2025.12*: &nbsp; 🎤 Invited to present a talk on **AI in Programmatic Agents** at the **Trustworthy AI+ Workshop**, co-hosted by King’s College London and the University of Exeter.  
-- *2025.11*: &nbsp; 🎉 Our paper on Agentic AI has been accepted at **AAAI 2026** and selected for an **Oral** Presentation.
+- *2025.11*: &nbsp; 🎉 Our paper on **Domain Adaptation of Agentic AI** has been accepted at **AAAI 2026** and selected for an **Oral** Presentation.
 - *2025.10*: &nbsp; 🎉 Our paper on LLM guardrail has been available at **Artificial Intelligence Review**.   
 - *2025.09*: &nbsp; 🎉 Our paper on LLM unlearning has been accepted at **NeurIPS 2025**.  
 - *2025.09*: &nbsp; 🎉 Our emerging research work on LLM-powered agent's responsibility has been accepted as a poster by **UKAIRS 2025**.  
