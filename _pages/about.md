@@ -33,6 +33,7 @@ Please reach out to collaborate 😃
 
 
 # 🔥 News
+- *2026.07*: &nbsp; 🏆 Honoured to share that my first-author paper, “Lying with Truths,” received an **Outstanding Paper Award** at ACL 2026.
 - *2026.07*: &nbsp; 📝 Acted as the **Session Chair** for **ACL 2026** for Session: Mathematical, Symbolic, Neurosymbolic, and Logical Reasoning.
 - *2026.07*: &nbsp; 🎤 Gave an **Oral Presentation** at **ACL 2026** at Harbor D in Grand Hyatt Manchester Hotel, San Diego.  
 - *2026.06*: &nbsp; 📝 Invited as the **Program Committee** for **AAAI 2027**.
@@ -172,6 +173,7 @@ Please reach out to collaborate 😃
 
 
 # 🎖 Honors and Awards
+- *2026.07*: **Outstanding Paper Award**, ACL 2026. 
 - *2024.06*: **ELLIS Manchester Scholarship**, the University of Manchester.  
 - *2023.12*: **PhD Full Scholarship**, University of Liverpool.  
 - *2023.10*: **MSc with Distinction**, Imperial College London.  
