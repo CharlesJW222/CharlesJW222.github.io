@@ -31,9 +31,9 @@ Before starting my Ph.D., I completed an MSc in Applied Computational Science an
   
 Please reach out to collaborate 😃 -->
 
-Hello! I’m Jinwei Hu, currently pursuing my Ph.D in Computer Science at the University of Liverpool, supervised by Prof. Xiaowei Huang and Dr. Yi Dong. My research focuses on understanding and improving the safety, robustness, and reliability of modern AI systems, particularly LLM-driven agents operating in dynamic and adversarial environments. My work has appeared in leading venues including ACL, NeurIPS, AAAI, ICML, TACL, CVPR, ICASSP, and IEEE Transactions journals, and particularly has received an Outstanding Paper Award at ACL 2026.
+Hello! I’m Jinwei Hu, currently pursuing my Ph.D in Computer Science at the University of Liverpool, supervised by Prof. Xiaowei Huang and Dr. Yi Dong. My research focuses on understanding and improving the safety, robustness, and reliability of modern AI systems, particularly LLM-driven agents operating in dynamic and adversarial environments. My work has appeared in leading venues including ACL, NeurIPS, AAAI, ICML, TACL, CVPR, ICASSP, IROS and IEEE Transactions journals, and particularly has received an Outstanding Paper Award at ACL 2026.
 
-I also contribute to the research community through academic service for venues including AAAI, NeurIPS, ICML, AAMAS, ACL, ECAI, TNNLS, and TOSEM, among others. Before beginning my Ph.D., I completed an MSc with Distinction in Applied Computational Science and Engineering at Imperial College London, where my research on AI for Science and explainable AI, supervised by Dr. Sibo Cheng and Dr. Rossella Arcucci at the Data Science Institute, resulted in publications in leading interdisciplinary journals such as CEJ.
+I also contribute to the research community through academic service for venues including AAAI, NeurIPS, ICML, AAMAS, ACL, ECAI, TNNLS, and TOSEM, among others. Before beginning my Ph.D., I completed an MSc with Distinction in Applied Computational Science and Engineering at Imperial College London, where my research on AI for Science and explainable AI, supervised by Dr. Sibo Cheng and Dr. Rossella Arcucci at the Data Science Institute, resulted in publications in many leading interdisciplinary journals such as CEJ.
 
 
 📚 My current research interests include:
