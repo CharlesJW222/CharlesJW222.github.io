@@ -138,7 +138,7 @@ I am always open to research discussions and collaborations. Please feel free to
 
 ## Selected Publications in Journal
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Aeronautics</div><img src='images/CJOA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Aeronautics & Featured Article</div><img src='images/CJOA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Robustness of LLM-Driven Multi-Agent Systems through Randomized Smoothing](https://www.sciencedirect.com/science/article/pii/S1000936125003851)
