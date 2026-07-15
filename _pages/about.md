@@ -36,7 +36,7 @@ Hello! I’m Jinwei Hu, currently pursuing my Ph.D in Computer Science at the Un
 I also contribute to the research community through academic service for venues including AAAI, NeurIPS, ICML, AAMAS, ACL, ECAI, TNNLS, and TOSEM, among others. Before beginning my Ph.D., I completed an MSc with Distinction in Applied Computational Science and Engineering at Imperial College London, where my research on AI for Science and explainable AI, supervised by Dr. Sibo Cheng and Dr. Rossella Arcucci at the Data Science Institute, resulted in publications in many leading interdisciplinary journals such as CEJ.
 
 
-📚 My current research interests include:
+📚 My current research interests include but not limited to:
 
 * AI Safety and Security
 * Responsible Agentic AI
