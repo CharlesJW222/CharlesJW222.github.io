@@ -193,7 +193,7 @@ I am always open to research discussions and collaborations. Please feel free to
 - *2024.06*: **ELLIS Manchester Scholarship**, the University of Manchester.  
 - *2023.12*: **PhD Full Scholarship**, University of Liverpool.  
 - *2023.10*: **MSc with Distinction**, Imperial College London.  
-<!--- *2022.07*: **BSc with First Class Honours** in Computer Science (Artificial Intelligence), University of Liverpool.  
+<!-- *2022.07*: **BSc with First Class Honours** in Computer Science (Artificial Intelligence), University of Liverpool.  
 - *2022.07*: **BSc with First Class Honours** in Information and Computing Science, Xi’an Jiaotong-Liverpool University.  
 
 # 📖 Educations
