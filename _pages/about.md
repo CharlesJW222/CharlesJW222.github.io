@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m Jinwei Hu (胡津玮), currently pursuing my Ph.D. in Computer Science at the University of Liverpool under the supervision of Prof. Xiaowei Huang and Dr. Yi Dong. My research focuses on understanding and improving the robustness, interpretability, and reliability of modern AI systems, particularly in safety-critical settings. I am especially interested in LLM-driven agents operating in dynamic or adversarial environments, the emergence of collusive behaviours among autonomous agents, and fine-grained knowledge manipulation techniques such as LLM unlearning. I also work on simulation-driven cyber defence, multi-agent coordination, and the integration of symbolic structure with generative intelligence.
+<!-- Hello! I’m Jinwei Hu (胡津玮), currently pursuing my Ph.D. in Computer Science at the University of Liverpool under the supervision of Prof. Xiaowei Huang and Dr. Yi Dong. My research focuses on understanding and improving the robustness, interpretability, and reliability of modern AI systems, particularly in safety-critical settings. I am especially interested in LLM-driven agents operating in dynamic or adversarial environments, the emergence of collusive behaviours among autonomous agents, and fine-grained knowledge manipulation techniques such as LLM unlearning. I also work on simulation-driven cyber defence, multi-agent coordination, and the integration of symbolic structure with generative intelligence.
 
 Before starting my Ph.D., I completed an MSc in Applied Computational Science and Engineering with Distinction at Imperial College London, where I conducted research on AI4Science and explainable AI under the supervision of Dr. Sibo Cheng and Dr. Rossella Arcucci from the Data Science Institute.I also hold a First Class BSc (Hons) in Computer Science (Artificial Intelligence) from the University of Liverpool and BSc in Information and Computing Science from Xi’an Jiaotong-Liverpool University.
 
@@ -29,7 +29,23 @@ Before starting my Ph.D., I completed an MSc in Applied Computational Science an
 - AI Safety and Security
 - AI4Science
   
-Please reach out to collaborate 😃
+Please reach out to collaborate 😃 -->
+
+Hello! I’m Jinwei Hu, currently pursuing my Ph.D in Computer Science at the University of Liverpool, supervised by Prof. Xiaowei Huang and Dr. Yi Dong. My research focuses on understanding and improving the safety, robustness, and reliability of modern AI systems, particularly LLM-driven agents operating in dynamic and adversarial environments. My work has appeared in leading venues including ACL, NeurIPS, AAAI, ICML, TACL, CVPR, ICASSP, and IEEE Transactions journals, and particularly has received an Outstanding Paper Award at ACL 2026.
+
+I also contribute to the research community through academic service for venues including AAAI, NeurIPS, ICML, AAMAS, ACL, ECAI, TNNLS, and TOSEM, among others. Before beginning my Ph.D., I completed an MSc with Distinction in Applied Computational Science and Engineering at Imperial College London, where my research on AI for Science and explainable AI, supervised by Dr. Sibo Cheng and Dr. Rossella Arcucci at the Data Science Institute, resulted in publications in leading interdisciplinary journals such as CEJ.
+
+
+📚 My current research interests include:
+
+* Trustworthy and Responsible Agentic AI
+* AI Safety and Security
+* LLM Post-training
+* Software Testing
+* Neuro-Symbolic AI
+* AI4Science
+
+I am always open to research discussions and collaborations. Please feel free to get in touch! 😃v
 
 
 # 🔥 News
@@ -177,14 +193,14 @@ Please reach out to collaborate 😃
 - *2024.06*: **ELLIS Manchester Scholarship**, the University of Manchester.  
 - *2023.12*: **PhD Full Scholarship**, University of Liverpool.  
 - *2023.10*: **MSc with Distinction**, Imperial College London.  
-- *2022.07*: **BSc with First Class Honours** in Computer Science (Artificial Intelligence), University of Liverpool.  
-- *2022.07*: **BSc with First Class Honours** in Information and Computing Science, Xi’an Jiaotong-Liverpool University.  
+<!--- *2022.07*: **BSc with First Class Honours** in Computer Science (Artificial Intelligence), University of Liverpool.  
+- *2022.07*: **BSc with First Class Honours** in Information and Computing Science, Xi’an Jiaotong-Liverpool University.  -->   
 
-# 📖 Educations
+<!--- # 📖 Educations
 - *2023.12 – Present*: **PhD in Computer Science**, University of Liverpool, UK  
 - *2022.10 – 2023.10*: **MSc in Applied Computational Science and Engineering**, Imperial College London, UK  
 - *2020.09 – 2022.07*: **BSc in Computer Science (Artificial Intelligence)**, University of Liverpool, UK  
-- *2018.09 – 2020.06*: **BSc in Information and Computing Science**, Xi’an Jiaotong-Liverpool University, China  
+- *2018.09 – 2020.06*: **BSc in Information and Computing Science**, Xi’an Jiaotong-Liverpool University, China  -->  
 
 # 💬 Invited Talks
 - *2026.07*: **Oral Presentation** at **ACL 2026**, San Diego. 
