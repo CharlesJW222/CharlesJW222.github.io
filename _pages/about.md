@@ -38,10 +38,10 @@ I also contribute to the research community through academic service for venues 
 
 📚 My current research interests include:
 
-* Trustworthy and Responsible Agentic AI
 * AI Safety and Security
-* LLM Post-training
-* Software Testing
+* Responsible Agentic AI
+* LLM Post-training for fine grained knowledge control
+* Testing and verification of AI-based systems
 * Neuro-Symbolic AI
 * AI4Science
 
