@@ -194,9 +194,9 @@ I am always open to research discussions and collaborations. Please feel free to
 - *2023.12*: **PhD Full Scholarship**, University of Liverpool.  
 - *2023.10*: **MSc with Distinction**, Imperial College London.  
 <!--- *2022.07*: **BSc with First Class Honours** in Computer Science (Artificial Intelligence), University of Liverpool.  
-- *2022.07*: **BSc with First Class Honours** in Information and Computing Science, Xi’an Jiaotong-Liverpool University.  -->   
+- *2022.07*: **BSc with First Class Honours** in Information and Computing Science, Xi’an Jiaotong-Liverpool University.  
 
-<!--- # 📖 Educations
+# 📖 Educations
 - *2023.12 – Present*: **PhD in Computer Science**, University of Liverpool, UK  
 - *2022.10 – 2023.10*: **MSc in Applied Computational Science and Engineering**, Imperial College London, UK  
 - *2020.09 – 2022.07*: **BSc in Computer Science (Artificial Intelligence)**, University of Liverpool, UK  
