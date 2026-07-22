@@ -45,7 +45,7 @@ I also contribute to the research community through academic service for venues 
 * Neuro-Symbolic AI
 * AI4Science
 
-I am always open to research discussions and collaborations. Please feel free to get in touch! 😃v
+I am always open to research discussions and collaborations. Please feel free to get in touch! 😃
 
 
 # 🔥 News
