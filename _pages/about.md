@@ -86,7 +86,7 @@ I am always open to research discussions and collaborations. Please feel free to
 # 📝 Publications
 ## Selected Publications in Conference
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Oral & Outstanding Paper Award</div><img src='images/ACL26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Oral & Outstanding Paper Award 🏆</div><img src='images/ACL26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage](https://aclanthology.org/2026.acl-long.270/)
