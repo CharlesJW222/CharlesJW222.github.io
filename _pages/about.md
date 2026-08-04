@@ -54,7 +54,7 @@ I am always open to research discussions and collaborations. Please feel free to
 - *2026.07*: &nbsp; 🎤 Gave an **Oral Presentation** in **ACL 2026** at Harbor D in Grand Hyatt Manchester Hotel, San Diego.  
 - *2026.06*: &nbsp; 📝 Invited as the **Program Committee** for **AAAI 2027**.
 - *2026.04*: &nbsp; 📝 Invited as the **Reviewer** for **NeurIPS 2026**.
-- *2026.04*: &nbsp; 🎉 Our paper on multi-agent collusive attack of LLM-based agents in open channel has been accepted at **ACL 2026**.
+- *2026.04*: &nbsp; 🎉 Our paper on multi-agent collusive attack in open channel has been accepted at **ACL 2026** as an **Oral** Presentation.
 - *2026.04*: &nbsp; 📝 Invited as the **Journal Referee** for **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.  
 - *2026.03*: &nbsp; 📝 Invited as the **Journal Referee** for **ACM Transactions on Software Engineering and Methodology (TOSEM)**.  
 - *2026.01*: &nbsp; 🎤 Gave an **Oral Presentation** at **AAAI 2026** at **Singapore EXPO**.  
