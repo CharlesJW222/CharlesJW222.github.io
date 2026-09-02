@@ -49,6 +49,7 @@ I am always open to research discussions and collaborations. Please feel free to
 
 
 # 🔥 News
+- *2026.08*: &nbsp; 🎤 Gave an invited talk at the AI & Cyber Security Track of the 7th ABCP Annual Conference, University of Cambridge.
 - *2026.07*: &nbsp; 🏆 Honoured to share that my first-author paper, “Lying with Truths,” received an **Outstanding Paper Award** at **ACL 2026**.
 - *2026.07*: &nbsp; 📝 Acted as the **Session Chair** in **ACL 2026** for Session: Mathematical, Symbolic, Neurosymbolic, and Logical Reasoning.
 - *2026.07*: &nbsp; 🎤 Gave an **Oral Presentation** in **ACL 2026** at Harbor D in Grand Hyatt Manchester Hotel, San Diego.  
@@ -196,6 +197,7 @@ I am always open to research discussions and collaborations. Please feel free to
 
 
 # 💬 Invited Talks
+- *2026.08*: Invited talk at **ABCP 2026**, University of Cambridge
 - *2026.07*: **Oral Presentation** at **ACL 2026**, San Diego. 
 - *2026.01*: **Oral Presentation** at **AAAI 2026**, Singapore EXPO. 
 - *2025.12*: Invited talk on **AI in Programmatic Agents** at the **Trustworthy AI+ Workshop**, co-hosted by King’s College London and the University of Exeter.  
