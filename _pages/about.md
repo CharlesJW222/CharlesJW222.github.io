@@ -207,7 +207,8 @@ I am always open to research discussions and collaborations. Please feel free to
 ## Journal Reviewing
 - **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**  
 - **ACM Transactions on Software Engineering and Methodology (TOSEM)**  
-- **IEEE Internet of Things Journal (IoTJ)**  
+- **IEEE Internet of Things Journal (IoTJ)**
+- **IEEE Robotics and Automation Letters (RA-L)**   
 
 ## Conference Program Committee / Reviewer
 - **AAAI 2026/2027**  
