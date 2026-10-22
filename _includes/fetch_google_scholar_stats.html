@@ -1,19 +1,53 @@
 <script>
     $(document).ready(function () {
+        var statsUrls = ['https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data.json'];
         {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
-        {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+        statsUrls.push('https://cdn.jsdelivr.net/gh/{{ site.repository }}@google-scholar-stats/gs_data.json');
         {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+
+        function renderCitations(data) {
+            var totalCitation = data && data.citedby;
+            if (!Number.isSafeInteger(totalCitation) || totalCitation < 0) {
+                return false;
+            }
+
+            var totalElement = document.getElementById('total_cit');
+            if (totalElement) {
+                totalElement.textContent = totalCitation >= 100
+                    ? Math.floor(totalCitation / 100) * 100 + '+'
+                    : String(totalCitation);
+                var summary = document.getElementById('citation-summary');
+                if (summary) {
+                    summary.hidden = false;
+                }
+            }
+
+            var publications = data.publications || {};
+            var citationElements = document.getElementsByClassName('show_paper_citations');
+            Array.prototype.forEach.call(citationElements, function (element) {
+                var paper = publications[element.getAttribute('data')];
+                if (paper && Number.isSafeInteger(paper.num_citations) && paper.num_citations >= 0) {
+                    element.textContent = '| Citations: ' + paper.num_citations;
+                }
             });
-        });
-    })
+            return true;
+        }
+
+        function fetchStats(index) {
+            if (index >= statsUrls.length) {
+                return;
+            }
+            $.ajax({url: statsUrls[index], dataType: 'json', timeout: 8000})
+                .done(function (data) {
+                    if (!renderCitations(data)) {
+                        fetchStats(index + 1);
+                    }
+                })
+                .fail(function () {
+                    fetchStats(index + 1);
+                });
+        }
+
+        fetchStats(0);
+    });
 </script>
