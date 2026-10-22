@@ -33,7 +33,7 @@ Please reach out to collaborate 😃 -->
 
 Hello! I’m Jinwei Hu, currently pursuing my Ph.D in Computer Science at the University of Liverpool, supervised by Prof. Xiaowei Huang and Dr. Yi Dong. My research focuses on understanding and improving the safety, robustness, and reliability of modern AI systems, particularly LLM-driven agents operating in dynamic and adversarial environments. My work has appeared in leading venues including ACL, NeurIPS, AAAI, ICML, TACL, CVPR, ICASSP, IROS and IEEE Transactions journals, and particularly has received an Outstanding Paper Award at ACL 2026.
 
-I also contribute to the research community through academic service for venues including AAAI, NeurIPS, ICML, AAMAS, ACL, ECAI, TNNLS, and TOSEM, among others. Before beginning my Ph.D., I completed an MSc with Distinction in Applied Computational Science and Engineering at Imperial College London, where my research on AI for Science and explainable AI, supervised by Dr. Sibo Cheng and Dr. Rossella Arcucci at the Data Science Institute, resulted in publications in many leading interdisciplinary journals such as CEJ.
+I serve as an Area Chair for \*ACL and contribute to the research community through academic service for venues including AAAI, NeurIPS, ICML, AAMAS, ACL, ECAI, TNNLS, and TOSEM, among others. Before beginning my Ph.D., I completed an MSc with Distinction in Applied Computational Science and Engineering at Imperial College London, where my research on AI for Science and explainable AI, supervised by Dr. Sibo Cheng and Dr. Rossella Arcucci at the Data Science Institute, resulted in publications in many leading interdisciplinary journals such as CEJ.
 
 
 📚 My current research interests include but not limited to:
@@ -49,10 +49,13 @@ I am always open to research discussions and collaborations. Please feel free to
 
 
 # 🔥 News
+- *2026.10*: &nbsp; 🎤 Gave an invited talk on **Trustworthy AI Agents and Multi-Agent Systems** at the **CBG Cloud Service Ireland AI Applications Workshop**, hosted by **Huawei Ireland Research Centre**.
+- *2026.10*: &nbsp; 📝 Invited as an **Area Chair** for **\*ACL**.
 - *2026.08*: &nbsp; 🎤 Gave an invited talk at the **AI & Cyber Security Track of the 7th ABCP Annual Conference**, University of Cambridge.
 - *2026.07*: &nbsp; 🏆 Honoured to share that my first-author paper, “Lying with Truths,” received an **Outstanding Paper Award** at **ACL 2026**.
 - *2026.07*: &nbsp; 📝 Acted as the **Session Chair** in **ACL 2026** for Session: Mathematical, Symbolic, Neurosymbolic, and Logical Reasoning.
 - *2026.07*: &nbsp; 🎤 Gave an **Oral Presentation** in **ACL 2026** at Harbor D in Grand Hyatt Manchester Hotel, San Diego.  
+- *2026.06*: &nbsp; 🎉 Our paper on reachability verification for RL has been accepted at **IROS 2026**.
 - *2026.06*: &nbsp; 📝 Invited as the **Program Committee** for **AAAI 2027**.
 - *2026.04*: &nbsp; 📝 Invited as the **Reviewer** for **NeurIPS 2026**.
 - *2026.04*: &nbsp; 🎉 Our paper on multi-agent collusive attack in open channel has been accepted at **ACL 2026** as an **Oral** Presentation.
@@ -74,6 +77,9 @@ I am always open to research discussions and collaborations. Please feel free to
 - *2025.06*: &nbsp; 📝 Served as a **Programme Committee Member** for **UKAIRS 2025**.  
 - *2025.02*: &nbsp; 🎉 Our paper on social media deepfake detection has been accepted by **CVPR 2025**.  
 
+<details markdown="1">
+<summary>News before 2025</summary>
+
 - *2024.09*: &nbsp; 🔬 Act as a **Research Associate** and mainly work on the project “CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space,” funded by the Alan Turing Institute (AICD Research Centre).  
 - *2024.06*: &nbsp; 🏆 Won the **ELLIS Manchester Scholarship** and thanks for supporting me to attended the ELLIS Summer Session hosted at the University of Manchester.  
 - *2024.05*: &nbsp; 🎤 Gave a tutorial session about **"How to Control LLMs’ behaviors and Design Strategy to safeguard LLMs"** at TACPS & Trust-AI Reading Group.  
@@ -83,6 +89,8 @@ I am always open to research discussions and collaborations. Please feel free to
 
 - *2023.12*: &nbsp; 🏆 Awarded a **full scholarship** to pursue my PhD at the **University of Liverpool** and joined the Trustworthy Autonomous Cyber Physical Systems (ACPS) Lab, under the supervision of Prof. Xiaowei Huang and Dr. Yi Dong.  
 - *2023.10*: &nbsp; 🎓 Graduated from **Imperial College London** and is honored to receive the highest academic award of **Master of Science with Distinction** in UK.  
+
+</details>
 
 # 📝 Publications
 ## Selected Publications in Conference
@@ -197,6 +205,7 @@ I am always open to research discussions and collaborations. Please feel free to
 
 
 # 💬 Invited Talks
+- *2026.10*: Invited talk on **Trustworthy AI Agents and Multi-Agent Systems** at the **CBG Cloud Service Ireland AI Applications Workshop**, hosted by **Huawei Ireland Research Centre**.
 - *2026.08*: Invited talk at **ABCP 2026**, University of Cambridge.
 - *2026.07*: **Oral Presentation** at **ACL 2026**, San Diego. 
 - *2026.01*: **Oral Presentation** at **AAAI 2026**, Singapore EXPO. 
@@ -204,6 +213,9 @@ I am always open to research discussions and collaborations. Please feel free to
 - *2024.05*: Tutorial on **["How to Control LLMs’ behaviors and Design Strategy to safeguard LLMs"](https://cgi.csc.liv.ac.uk/~acps/tutorial04/)** at TACPS &amp; Trust-AI Reading Group. 
 
 # 🤝 Services
+## Area Chair
+- **\*ACL**
+
 ## Journal Reviewing
 - **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**  
 - **ACM Transactions on Software Engineering and Methodology (TOSEM)**  
