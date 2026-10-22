@@ -2,13 +2,8 @@ name: Get Citation Data
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - .github/workflows/google_scholar_crawler.yaml
-      - google_scholar_crawler/**
-  schedule:
-    - cron: '17 8 * * *'
+# Daily updates run on the website owner's server because Scholar rate-limits
+# GitHub-hosted runners. This workflow remains available for manual runs.
 
 permissions:
   contents: write
@@ -19,7 +14,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v7
