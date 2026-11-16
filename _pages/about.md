@@ -223,7 +223,7 @@ I am always open to research discussions and collaborations. Please feel free to
 - **IEEE Robotics and Automation Letters (RA-L)**   
 
 ## Conference Program Committee / Reviewer
-- ***CVPR 2027** 
+- **CVPR 2027** 
 - ***ACL 2026**  
 - **AAAI 2026/2027**  
 - **AAMAS 2026**  
